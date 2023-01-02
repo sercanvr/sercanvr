@@ -1,6 +1,5 @@
 <h1 align="left">Hi,I'm Sercan 👋</h1>
-<h2>You can see some of my frontend projects <a target="_blank" href="https://www.frontendmentor.io/profile/lastpeek">here</a> !</h2>
-
+<h3>You can see some of my frontend projects <a target="_blank" href="https://www.frontendmentor.io/profile/lastpeek">here</a> !</h3>
 
 ----
 ### Languages and Tools:  
