@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Sercan 👋🏼</h1>
-<li>I’m currently learning <b>JavaScript</b></li>
+<li>I’m currently learning <b>JavaScript,React</b></li>
 <h3>You can see some of my frontend projects <a target="_blank" href="https://www.frontendmentor.io/profile/lastpeek">here</a> !</h3>
 
 ----
