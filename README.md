@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Sercan 👋🏼</h1>
 <h3>💻 JavaScript Fan Web Developer</b></h3>
-<li>I’m currently learning <b>JavaScript and React.JS</b></li>
+<li>I’m currently learning <b>React.JS</b></li>
 <h3>You can see some of my frontend projects <a href="https://www.frontendmentor.io/profile/lastpeek">here</a>!</h3>
   
 ----
