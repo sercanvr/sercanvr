@@ -1,7 +1,7 @@
 <h1 align="left">Frontend Developer</h1>
 <li>I’m currently learning <b>React.JS</b> 💻</li>
 <li>My next goal is to develop iOS Applications by specializing in <b>Swift.</b> 📱</li>
-<h3>You can see some of my frontend projects <a href="https://www.frontendmentor.io/profile/lastpeek">here</a>!</h3>
+<h3>You can see some of my frontend projects <a href="https://www.frontendmentor.io/profile/sercanvr">here</a>!</h3>
   
 ----
 ### Languages and Tools:  
