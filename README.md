@@ -4,7 +4,7 @@
 <li><b>Frontend</b>: JavaScript, React.js</li>
 <li><b>Tools and Platforms</b>: Visual Studio Code, Git, Postman, GitHub, Vercel, Jira</li>
 <br>
-<p>You can check out my <b>HackerRank</b> profile where I hone my algorithmic skills <a href="https://www.hackerrank.com/profile/JsAddict" target="_blank">here</a>.</p>
+<p>You can check out my <b>HackerRank</b> profile where I hone my algorithmic skills <a href="https://www.hackerrank.com/profile/JsAddict">here</a>.</p>
   
 ----
 ### Languages and Tools:  
