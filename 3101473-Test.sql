@@ -1,1 +1,0 @@
-SELECT country_code
