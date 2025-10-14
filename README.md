@@ -1,4 +1,4 @@
-<h1 align="left">Frontend Developer</h1>
+<h1 align="left">Frontend Developer (Fullstack-focused)</h1>
 <p> I am improving my English, JavaScript and React.js skills by working on courses and projects on a regular basis.</p>
 <h2 align="left">Technologies</h2>
 <li><b>Frontend</b>: JavaScript, React.js</li>
