@@ -1,8 +1,11 @@
 <h1 align="left">Frontend Developer (Fullstack-focused)</h1>
-<p> I am improving my English, JavaScript and React.js skills by working on courses and projects on a regular basis.</p>
+<p> Frontend Developer passionate about creating scalable, clean, and high-performance <br> interfaces using modern technologies and AI-assisted workflows.</p>
+<p>Focused on continuous improvement toward Full Stack Development and <br> crafting seamless user experiences with React.js and beyond.</p>
+
 <h2 align="left">Technologies</h2>
-<li><b>Frontend</b>: JavaScript, React.js</li>
-<li><b>Tools and Platforms</b>: Visual Studio Code, Git, Postman, GitHub, Vercel, Jira</li>
+<li><b>Programming Languages</b>: HTML, CSS, EJS, JavaScript</li>
+<li><b>Frameworks and Libraries</b>: Redux.js, React.js, SCSS, Bootstrap</li>
+<li><b>Tools and Platforms</b>: Git & GitHub, VS Code, Figma, Adobe Illustrator, Adobe Photoshop, IntelliJ IDEA, Jira, WordPress, Linux (Ubuntu)</li>
 <br>
 <p>You can check out my <b>HackerRank</b> profile where I hone my algorithmic skills <a href="https://www.hackerrank.com/profile/JsAddict">here</a>.</p>
   
