@@ -5,7 +5,7 @@
 <h2 align="left">Technologies</h2>
 <li><b>Programming Languages</b>: HTML, CSS, EJS, JavaScript</li>
 <li><b>Frameworks and Libraries</b>: Redux.js, React.js, SCSS, Bootstrap</li>
-<li><b>Tools and Platforms</b>: Git & GitHub, Docker, VS Code, IntelliJ IDEA, PyCharm, PhpStorm, Google Antigravity IDE, WordPress, Figma, Adobe Illustrator, Adobe Photoshop, Jira, Linux (Ubuntu)</li>
+<li><b>Tools and Platforms</b>: Git & GitHub, Docker, VS Code, IntelliJ IDEA, PyCharm, PhpStorm, <br> Google Antigravity IDE, WordPress, Figma, Adobe Illustrator, Adobe Photoshop, Jira, Linux (Ubuntu)</li>
 <br>
 <p>You can check out my <b>HackerRank</b> profile where I hone my algorithmic skills <a href="https://www.hackerrank.com/profile/JsAddict">here</a>.</p>
   
