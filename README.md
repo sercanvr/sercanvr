@@ -2,7 +2,7 @@
 <p> Frontend Developer passionate about creating scalable, clean, and high-performance <br> interfaces using modern technologies and AI-assisted workflows.</p>
 <p>Focused on continuous improvement toward Full Stack Development and <br> crafting seamless user experiences with React.js and beyond.</p>
 
-<h2 align="left">Technologies</h2>
+<h2 align="left">Tech Stack</h2>
 <li><b>Programming Languages</b>: HTML, CSS, EJS, JavaScript</li>
 <li><b>Frameworks and Libraries</b>: Redux.js, React.js, SCSS, Bootstrap</li>
 <li><b>Tools and Platforms</b>: Git & GitHub, Docker, VS Code, IntelliJ IDEA, PyCharm, PhpStorm, <br> Google Antigravity IDE, WordPress, Figma, Adobe Illustrator, Adobe Photoshop, Jira, Linux (Ubuntu)</li>
