@@ -9,31 +9,41 @@
 PyCharm, PhpStorm, Postman, Burp Suite, WordPress, Docker, <br> Git & GitHub, Jira, Slack, Notion, Linux (Kali,
 Arch, Ubuntu), VirtualBox, VMware, Figma, <br> Adobe Illustrator, Adobe Photoshop</li>
 <br>
-<p>You can check out my <b>HackerRank</b> profile where I hone my algorithmic skills <a href="https://www.hackerrank.com/profile/JsAddict">here</a>.</p>
+<p>You can check out my <b>HackerRank</b> profile where I hone my algorithmic skills <a href="https://www.hackerrank.com/profile/msvdev">here</a>.</p>
   
 ----
-### Languages and Tools:  
+### Languages and Tools:   
 <div align="left">
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="44" height="44"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a>
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="40" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vite.svg" alt="vite" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.simpleicons.org/markdown/FFFFFF" alt="markdown" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tailwind.svg" alt="tailwind-css" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wordpress.svg" alt="wordpress" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/javascript.svg" alt="javascript" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/typescript.svg" alt="typescript" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vue-js.svg" alt="vue" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/reactjs.svg" alt="react" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nextjs.svg" alt="nextjs" width="40" height="40"/>&nbsp;</a> <br>
+<a><img src="https://cdn.simpleicons.org/ejs/B4CA65" alt="ejs" width="40" height="40"/>&nbsp;</a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img  style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>
-<a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="40" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="40" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mongodb.svg" alt="mongodb" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.simpleicons.org/react/FFFFFF" alt="react-native" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/swift.svg" alt="swift" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/postman.svg" alt="postman" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" alt="docker" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.simpleicons.org/burpsuite/ff6633" alt="burp suite" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.simpleicons.org/openbugbounty/F67909" alt="open-bug-bounty" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireshark.png" alt="wireshark" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.simpleicons.org/metasploit/2596CD" alt="metasploit" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kali-linux.svg" alt="kali linux" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" alt="arch linux" width="40" height="40"/>&nbsp;</a> <br>
+<a><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ubuntu.svg" alt="ubuntu linux" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/antigravity-color.png" alt="antigravity" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex-color.svg" alt="codex" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/claude.svg" alt="claude" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/cursor.png" alt="cursor" width="40" height="40"/>&nbsp;</a>
 </div>
