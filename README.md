@@ -14,6 +14,7 @@ Arch, Ubuntu), VirtualBox, VMware, Figma, <br> Adobe Illustrator, Adobe Photosho
 ----
 ### Languages and Tools:   
 <div align="left">
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="neovim" width="40" height="40"/>&nbsp;</a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;</a>
 <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vite.svg" alt="vite" width="40" height="40"/>&nbsp;</a>
 <a><img src="https://cdn.simpleicons.org/markdown/FFFFFF" alt="markdown" width="40" height="40"/>&nbsp;</a>
@@ -24,26 +25,27 @@ Arch, Ubuntu), VirtualBox, VMware, Figma, <br> Adobe Illustrator, Adobe Photosho
 <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wordpress.svg" alt="wordpress" width="40" height="40"/>&nbsp;</a>
 <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/javascript.svg" alt="javascript" width="40" height="40"/>&nbsp;</a>
 <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/typescript.svg" alt="typescript" width="40" height="40"/>&nbsp;</a>
-<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vue-js.svg" alt="vue" width="40" height="40"/>&nbsp;</a>
-<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/reactjs.svg" alt="react" width="40" height="40"/>&nbsp;</a>
-<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nextjs.svg" alt="nextjs" width="40" height="40"/>&nbsp;</a> <br>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vue-js.svg" alt="vue.js" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/reactjs.svg" alt="react.js" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nextjs.svg" alt="next.js" width="40" height="40"/>&nbsp;</a> <br>
 <a><img src="https://cdn.simpleicons.org/ejs/B4CA65" alt="ejs" width="40" height="40"/>&nbsp;</a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/>&nbsp;</a>
 <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mongodb.svg" alt="mongodb" width="40" height="40"/>&nbsp;</a>
 <a><img src="https://cdn.simpleicons.org/react/FFFFFF" alt="react-native" width="40" height="40"/>&nbsp;</a>
 <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/swift.svg" alt="swift" width="40" height="40"/>&nbsp;</a>
 <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/postman.svg" alt="postman" width="40" height="40"/>&nbsp;</a>
 <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" alt="docker" width="40" height="40"/>&nbsp;</a>
-<a><img src="https://cdn.simpleicons.org/burpsuite/ff6633" alt="burp suite" width="40" height="40"/>&nbsp;</a>
 <a><img src="https://cdn.simpleicons.org/openbugbounty/F67909" alt="open-bug-bounty" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.simpleicons.org/burpsuite/ff6633" alt="burp-suite" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" alt="nmap" width="40" height="40" style="object-fit:cover" />&nbsp;</a>
 <a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireshark.png" alt="wireshark" width="40" height="40"/>&nbsp;</a>
 <a><img src="https://cdn.simpleicons.org/metasploit/2596CD" alt="metasploit" width="40" height="40"/>&nbsp;</a>
-<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kali-linux.svg" alt="kali linux" width="40" height="40"/>&nbsp;</a>
-<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" alt="arch linux" width="40" height="40"/>&nbsp;</a> <br>
-<a><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ubuntu.svg" alt="ubuntu linux" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kali-linux.svg" alt="kali-linux" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" alt="arch-linux" width="40" height="40"/>&nbsp;</a> <br>
+<a><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ubuntu.svg" alt="ubuntu-linux" width="40" height="40"/>&nbsp;</a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;</a>
-<a><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/antigravity-color.png" alt="antigravity" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://cdn.prod.website-files.com/66e2951bf4402c4e4472ef85/6a83cabcf4017044300c8899_com.google.antigravity-ide.png" alt="antigravity" width="40" height="40"/>&nbsp;</a>
 <a><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex-color.svg" alt="codex" width="40" height="40"/>&nbsp;</a>
 <a><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/claude.svg" alt="claude" width="40" height="40"/>&nbsp;</a>
-<a><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/cursor.png" alt="cursor" width="40" height="40"/>&nbsp;</a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" alt="cursor" width="40" height="40" />&nbsp;</a>
 </div>
